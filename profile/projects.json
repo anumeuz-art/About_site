@@ -1,0 +1,97 @@
+{
+    "projects": [
+        {
+            "image": "images/about/visionX.png",
+            "title": "VisionX: AI Screen Intelligence 2.0",
+            "bodyText": "- Next-generation neural interface for real-time screen analysis and interactive AI assistance.\n- Multi-Engine Integration: Seamless switching between Gemini, Groq, Mistral, and local Ollama.\n- Acoustic Neuralization: High-quality local Text-to-Speech (Silero) for AI auditory output.\n- Cyberpunk UI with glassmorphism elements and intuitive control grid.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/anumeuz-art/visionx"
+                }
+            ],
+            "tags": [
+                "Python",
+                "Gemini API",
+                "Ollama",
+                "TTS",
+                "Neural Networks",
+                "Cyberpunk UI"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio-poster.png",
+            "title": "MineBot TG — Minecraft CMS",
+            "bodyText": "- Automated Telegram bot for managing Minecraft mod channels with AI-powered post generation.\n- Smart Queue: Intelligent publication scheduling with configurable intervals.\n- Userbot Bridge: Automated scanning and forwarding of mods from external sources.\n- Auto-Watermark: Real-time branding of mod images and media.\n- Web App Integration: Custom Telegram Mini App for visual management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/anumeuz-art/mine_bot"
+                }
+            ],
+            "tags": [
+                "Python",
+                "Telegram Bot API",
+                "Gemini 2.0",
+                "SQLite",
+                "Watermarking",
+                "Mini App"
+            ]
+        },
+        {
+            "image": "images/about/llm_chat.png",
+            "title": "Ollama Nexus: Local Intelligence Hub",
+            "bodyText": "- High-tech local station for working with Large Language Models (LLM) using Ollama.\n- Neural Chat Protocol: Intuitive interface for local model interaction.\n- Vision Analysis: Real-time visual data analysis using multimodal models (Llava, Moondream).\n- Neural Memory Engine: Persistent user preferences and context awareness.\n- Glassmorphism UI with a modern dark theme and adaptive design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/anumeuz-art/Ollama_local_model_chat"
+                }
+            ],
+            "tags": [
+                "Python",
+                "Streamlit",
+                "Ollama",
+                "Multimodal AI",
+                "Glassmorphism",
+                "CSS"
+            ]
+        },
+        {
+            "image": "images/about/clickui.png",
+            "title": "ClickUi",
+            "bodyText": "- AI-assistant tool in pure Python.\n- Integrates Whisper STT, Kokoro TTS, and web scraping for seamless voice and chat interactions.\n- Features real-time AI response and automated task execution.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/anumeuz-art/ClickUi"
+                }
+            ],
+            "tags": [
+                "Python",
+                "AI Assistant",
+                "Whisper STT",
+                "Kokoro TTS",
+                "Web Scraping"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio-poster.png",
+            "title": "Personal Portfolio",
+            "bodyText": "- A static portfolio built with pure frontend technologies.\n- Featuring dark mode support, smooth animations, and dynamic project loading.\n- Fully responsive design optimized for all devices.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/anumeuz-art"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap",
+                "AOS"
+            ]
+        }
+    ]
+}
